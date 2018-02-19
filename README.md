@@ -49,5 +49,6 @@ API example with 1 service with secure key authentication only. (no oAuth. Examp
 	[war]	failed to read .env file. Creating default one.
   ```
 
+- wait 30 seconds until route will be cached.
 - open [Example App Page](http://microservice-frame.work/api-todo-example/)
   This page will connect your local API.
